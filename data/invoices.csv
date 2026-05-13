@@ -1,0 +1,5 @@
+invoice_id,job_id,labor_cost,material_cost,total_amount,paid_status
+9001,1001,450.00,320.00,770.00,paid
+9002,1002,200.00,25.00,225.00,paid
+9003,1003,600.00,80.00,680.00,pending
+9004,1005,1200.00,900.00,2100.00,paid

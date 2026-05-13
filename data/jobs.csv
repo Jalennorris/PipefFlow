@@ -1,0 +1,6 @@
+job_id,customer_id,technician_id,job_type,job_status,scheduled_date,completed_date,labor_hours,location_city
+1001,501,201,water_heater,completed,2026-01-03,2026-01-03,4.5,Houston
+1002,502,202,drain_cleaning,completed,2026-01-04,2026-01-04,2.0,Pasadena
+1003,503,201,leak_repair,completed,2026-01-05,2026-01-06,6.0,Sugar Land
+1004,504,203,rough_in,open,2026-01-08,,0.0,The Woodlands
+1005,505,202,sewer_repair,completed,2026-01-10,2026-01-12,12.0,Houston

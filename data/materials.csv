@@ -1,0 +1,6 @@
+material_id,job_id,material_name,category,quantity,unit_cost
+1,1001,copper_pipe,pipe,12,8.50
+2,1001,ball_valve,valve,2,18.00
+3,1002,drain_cable_tool,rental,1,40.00
+4,1005,pvc_pipe,pipe,20,4.75
+5,1005,cleanout_fitting,fitting,3,12.00
